@@ -40,7 +40,7 @@
 ![Keras](https://img.shields.io/badge/Keras-F0E68C?style=for-the-badge&logo=keras&logoColor=grey)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-FFE4E1?style=for-the-badge&logo=scikit-learn&logoColor=grey)
 
-### Deployment### Deployment 🌷
+### Deployment
 ![Heroku](https://img.shields.io/badge/Heroku-E6D7FF?style=for-the-badge&logo=heroku&logoColor=grey)
 ![Flask](https://img.shields.io/badge/Flask-F5DEB3?style=for-the-badge&logo=flask&logoColor=grey)
 ![Git](https://img.shields.io/badge/Git-F0BBDD?style=for-the-badge&logo=git&logoColor=grey)

@@ -4,9 +4,9 @@
 
 ### AI Researcher & Builder turning ideas into deployed solutions 🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DDA0DD?style=for-the-badge&logo=linkedin&logoColor=grey)](https://linkedin.com/in/agostinavidalvillanueva-a36626201)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DDA0DD?style=for-the-badge&logo=linkedin&logoColor=grey)](https://www.linkedin.com/in/agostina-vidal-villanueva-a36626201)
 [![Website](https://img.shields.io/badge/Website-F0BBDD?style=for-the-badge&logo=google-chrome&logoColor=grey)](https://agostinavidalvillanueva.com)
-[![Gmail](https://img.shields.io/badge/Gmail-FFB6C1?style=for-the-badge&logo=gmail&logoColor=grey)](mailto:agostinavidalvillanueva@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-FFB6C1?style=for-the-badge&logo=gmail&logoColor=grey)](mailto:wgstna@gmail.com)
 
 </div>
 
@@ -97,9 +97,9 @@
   
 ### 📫 Let's Connect!
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DDA0DD?style=for-the-badge&logo=linkedin&logoColor=grey)](https://linkedin.com/in/agostinavidalvillanueva-a36626201)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DDA0DD?style=for-the-badge&logo=linkedin&logoColor=grey)](https://www.linkedin.com/in/agostina-vidal-villanueva-a36626201)
 [![Website](https://img.shields.io/badge/Website-F0BBDD?style=for-the-badge&logo=google-chrome&logoColor=grey)](https://agostinavidalvillanueva.com)
-[![Gmail](https://img.shields.io/badge/Gmail-FFB6C1?style=for-the-badge&logo=gmail&logoColor=grey)](mailto:agostinavidalvillanueva@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-FFB6C1?style=for-the-badge&logo=gmail&logoColor=grey)](mailto:wgstna@gmail.com)
 
 </div>
 
